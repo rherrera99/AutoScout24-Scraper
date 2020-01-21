@@ -10,3 +10,4 @@ Feel free to use our code, however, we do not accept any liability with regards 
 
 For inquiries please contact:
 rogiervanrooij@gmail.com
+dolezara@outlook.cz
